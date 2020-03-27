@@ -15,6 +15,8 @@ exports.PovrsinaKruga= (r)=>{
 exports.ZapreminaValjka=(r,H)=>{
     return this.PovrsinaKruga(r)*H;
 }
-exports.PovrsinaTrougla=(a,b,angle)=>{
-    return a*b*math.sin(angle*math.PI/180)/2;
+
+exports.PovrsinaTrougla=(a,b,c)=>{
+    let s=(a+b+c)/2;
+    return math.sqrt(s*(s-a)*(s-b)*(s-c));
 }

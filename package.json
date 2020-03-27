@@ -1,6 +1,6 @@
 {
   "name": "nrt617.zadatak1",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "5 matematickih funkcija",
   "main": "nrt617.zadatak1.js",
   "dependencies": {
