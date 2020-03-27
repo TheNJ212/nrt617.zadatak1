@@ -15,7 +15,6 @@ exports.PovrsinaKruga= (r)=>{
 exports.ZapreminaValjka=(r,H)=>{
     return this.PovrsinaKruga(r)*H;
 }
-
-exports.PovrsinaTroubla(a,b,angle){
+exports.PovrsinaTrougla=(a,b,angle)=>{
     return a*b*math.sin(angle)/2;
 }
