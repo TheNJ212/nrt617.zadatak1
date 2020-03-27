@@ -1,0 +1,32 @@
+{
+  "name": "nrt617.zadatak1",
+  "version": "1.0.0",
+  "description": "5 matematickih funkcija",
+  "main": "nrt617.zadatak1.js",
+  "dependencies": {
+    "math.js": "^1.1.46",
+    "mathjs": "^6.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheNJ212/nrt617.zadatak1.git"
+  },
+  "keywords": [
+    "povrsina",
+    "zapremina",
+    "trougao",
+    "valjak",
+    "raspojanje",
+    "krug"
+  ],
+  "author": "Nikola Jovicic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheNJ212/nrt617.zadatak1/issues"
+  },
+  "homepage": "https://github.com/TheNJ212/nrt617.zadatak1#readme"
+}
